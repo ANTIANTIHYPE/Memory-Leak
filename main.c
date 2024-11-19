@@ -1,9 +1,7 @@
-#include <windows.h>
 #include <color.h>
 #include <stdlib.h>
 #include <time.h>
 #include <psapi.h>
-#include <stdio.h>
 #include <limits.h>
 
 static void leak()
